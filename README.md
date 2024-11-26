@@ -5,9 +5,14 @@ This is an User friendly Port scanner that Scans Websites for ports, This Script
 
 by saintexo3237 
 Features: 
+
 -Fast scanning
+
 -Full/Half/Custom Scans
+
 -Reverse DNS Resulotion  
+
 -Excludeable Ports
+
 -Custom Threads 
 -User Friendly GUIs
